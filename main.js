@@ -21,6 +21,7 @@ Application.configure({
 Application.registerModule('webserver');
 Application.registerModule('sockets');
 Application.registerModule('database');
+Application.registerModule('user');
 
 Application.run();
 
