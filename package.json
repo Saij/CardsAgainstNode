@@ -1,13 +1,13 @@
 {
-  "name": "skeleton",
-  "version": "1.0.0",
-  "description": "",
+  "name": "CardsAgainstNide",
+  "version": "0.0.1",
+  "description": "A simple and small Cards Against Humanity clone based on MongoDB, Express, AngularJS and NodeJS",
   "main": "main.js",
   "scripts": {
     "start": "node main.js",
     "test": "node ./node_modules/grunt-cli/bin/grunt test"
   },
-  "author": "",
+  "author": "Saij",
   "license": "ISC",
   "dependencies": {
     "async": "^1.4.2",
